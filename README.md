@@ -1,4 +1,4 @@
-# AR_Practice
+# AR_Face
 
 유니티로 AR 앱 만들기(3) : 개발자 옆 디자이너
 
