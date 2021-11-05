@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/ImageTracking/ImageTracking.unity
+- path: Assets/Scenes/BoxMoving/BoxMoving.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

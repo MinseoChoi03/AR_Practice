@@ -54,6 +54,13 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\Scenes\ImageTracking\GoToURL.cs" />
+    <Compile Include="Assets\Scenes\BoxMoving\PositionVisualizer.cs" />
+    <Compile Include="Assets\Scenes\BoxMoving\PlaceOnPlane.cs" />
+    <Compile Include="Assets\Scenes\BoxMoving\TouchHelper.cs" />
+    <Compile Include="Assets\Scenes\BoxMoving\BoxController.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\Scenes\BoxMoving\MobileARShadow.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
