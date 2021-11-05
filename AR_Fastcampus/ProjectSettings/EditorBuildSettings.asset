@@ -11,9 +11,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/BoxMoving/BasicPlane.unity
     guid: 9a427a8e1e736fc4f9adee7855d75e14
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/BoxMoving/BoxMoving.unity
     guid: d329b17d5eb572f428bbee23eb253f33
+  - enabled: 0
+    path: Assets/Scenes/BallThrowing/BallThrowing.unity
+    guid: 66cf009773f081546b0bf30ad06ac944
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 46cf07a5945cd034aab595dbc19a0291, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e2f869774b12e400996eb546603602e3, type: 2}
